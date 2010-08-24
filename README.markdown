@@ -1,5 +1,5 @@
-Carl Mercier's Wordpress-to-Tumblr Importer
-===========================================
+Wordpress-to-Tumblr Importer
+============================
 
 This script will import your Wordpress posts to Tumblr. Optionally, it can also import comments into Disqus and move inline images to a different server since Tumblr doesn't host inline images.
 
